@@ -1,0 +1,10 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    font-family: fantasy, Helvetica;
+}
+
+.parallax-container {
+    height: "500";
+  }
